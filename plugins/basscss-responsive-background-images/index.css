@@ -1,0 +1,56 @@
+/* Basscss Responsive Background Images */
+
+@media (--breakpoint-sm) {
+
+  .sm-bg-cover   { background-size: cover }
+  .sm-bg-contain { background-size: contain }
+
+  .sm-bg-center  { background-position: center }
+  .sm-bg-top     { background-position: top }
+  .sm-bg-right   { background-position: right }
+  .sm-bg-bottom  { background-position: bottom }
+  .sm-bg-left    { background-position: left }
+
+}
+
+
+@media (--breakpoint-md) {
+
+  .md-bg-cover   { background-size: cover }
+  .md-bg-contain { background-size: contain }
+
+  .md-bg-center  { background-position: center }
+  .md-bg-top     { background-position: top }
+  .md-bg-right   { background-position: right }
+  .md-bg-bottom  { background-position: bottom }
+  .md-bg-left    { background-position: left }
+
+}
+
+
+@media (--breakpoint-lg) {
+
+  .lg-bg-cover   { background-size: cover }
+  .lg-bg-contain { background-size: contain }
+
+  .lg-bg-center  { background-position: center }
+  .lg-bg-top     { background-position: top }
+  .lg-bg-right   { background-position: right }
+  .lg-bg-bottom  { background-position: bottom }
+  .lg-bg-left    { background-position: left }
+
+}
+
+
+@media (--breakpoint-xl) {
+
+  .xl-bg-cover   { background-size: cover }
+  .xl-bg-contain { background-size: contain }
+
+  .xl-bg-center  { background-position: center }
+  .xl-bg-top     { background-position: top }
+  .xl-bg-right   { background-position: right }
+  .xl-bg-bottom  { background-position: bottom }
+  .xl-bg-left    { background-position: left }
+
+}

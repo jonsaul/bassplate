@@ -1,0 +1,15 @@
+/* Basscss Letter Spacing Utilities */
+
+.ls-0 { letter-spacing:0; }
+
+.ls-1 { letter-spacing:0.01em; }
+.ls-2 { letter-spacing:0.02em; }
+.ls-3 { letter-spacing:0.03em; }
+.ls-4 { letter-spacing:0.04em; }
+.ls-5 { letter-spacing:0.05em; }
+
+.ls-n1 { letter-spacing:-0.01em; }
+.ls-n2 { letter-spacing:-0.02em; }
+.ls-n3 { letter-spacing:-0.03em; }
+.ls-n4 { letter-spacing:-0.04em; }
+.ls-n5 { letter-spacing:-0.05em; }

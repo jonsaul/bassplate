@@ -1,0 +1,225 @@
+/* Basscss Responsive min-height Values */
+
+
+@media (--breakpoint-sm) {
+
+  .sm-min-height-1 { min-height: 8px; min-height:0.5rem; }
+  .sm-min-height-2 { min-height: 16px; min-height:1rem; }
+  .sm-min-height-3 { min-height: 32px; min-height:2rem; }
+  .sm-min-height-4 { min-height: 48px; min-height:3rem; }
+  .sm-min-height-5 { min-height: 64px; min-height:4rem; }
+  .sm-min-height-6 { min-height: 80px; min-height:5rem; }
+  .sm-min-height-7 { min-height: 96px; min-height:6rem; }
+  .sm-min-height-8 { min-height: 112px; min-height:7rem; }
+  .sm-min-height-9 { min-height: 128px; min-height:8rem; }
+  .sm-min-height-10 { min-height: 144px; min-height:9rem; }
+  .sm-min-height-11 { min-height: 160px; min-height:10rem; }
+  .sm-min-height-12 { min-height: 176px; min-height:11rem; }
+  .sm-min-height-13 { min-height: 192px; min-height:12rem; }
+  .sm-min-height-14 { min-height: 208px; min-height:13rem; }
+  .sm-min-height-15 { min-height: 224px; min-height:14rem; }
+  .sm-min-height-16 { min-height: 240px; min-height:15rem; }
+  .sm-min-height-17 { min-height: 256px; min-height:16rem; }
+  .sm-min-height-18 { min-height: 272px; min-height:17rem; }
+  .sm-min-height-19 { min-height: 288px; min-height:18rem; }
+  .sm-min-height-20 { min-height: 304px; min-height:19rem; }
+  .sm-min-height-21 { min-height: 320px; min-height:20rem; }
+  .sm-min-height-22 { min-height: 336px; min-height:21rem; }
+  .sm-min-height-23 { min-height: 352px; min-height:22rem; }
+  .sm-min-height-24 { min-height: 368px; min-height:23rem; }
+  .sm-min-height-25 { min-height: 384px; min-height:24rem; }
+  .sm-min-height-26 { min-height: 400px; min-height:25rem; }
+  .sm-min-height-27 { min-height: 416px; min-height:26rem; }
+  .sm-min-height-28 { min-height: 432px; min-height:27rem; }
+  .sm-min-height-29 { min-height: 448px; min-height:28rem; }
+  .sm-min-height-30 { min-height: 464px; min-height:29rem; }
+  .sm-min-height-31 { min-height: 480px; min-height:30rem; }
+  .sm-min-height-32 { min-height: 496px; min-height:31rem; }
+  .sm-min-height-33 { min-height: 512px; min-height:32rem; }
+  .sm-min-height-34 { min-height: 528px; min-height:33rem; }
+  .sm-min-height-35 { min-height: 544px; min-height:34rem; }
+  .sm-min-height-36 { min-height: 560px; min-height:35rem; }
+  .sm-min-height-37 { min-height: 576px; min-height:36rem; }
+  .sm-min-height-38 { min-height: 592px; min-height:37rem; }
+  .sm-min-height-39 { min-height: 608px; min-height:38rem; }
+  .sm-min-height-40 { min-height: 624px; min-height:39rem; }
+  .sm-min-height-41 { min-height: 640px; min-height:40rem; }
+  .sm-min-height-42 { min-height: 656px; min-height:41rem; }
+  .sm-min-height-43 { min-height: 672px; min-height:42rem; }
+  .sm-min-height-44 { min-height: 688px; min-height:43rem; }
+  .sm-min-height-45 { min-height: 704px; min-height:44rem; }
+  .sm-min-height-46 { min-height: 720px; min-height:45rem; }
+  .sm-min-height-47 { min-height: 736px; min-height:46rem; }
+  .sm-min-height-48 { min-height: 752px; min-height:47rem; }
+  .sm-min-height-49 { min-height: 768px; min-height:48rem; }
+  .sm-min-height-50 { min-height: 784px; min-height:49rem; }
+
+}
+
+
+@media (--breakpoint-md) {
+
+  .md-min-height-1 { min-height: 8px; min-height:0.5rem; }
+  .md-min-height-2 { min-height: 16px; min-height:1rem; }
+  .md-min-height-3 { min-height: 32px; min-height:2rem; }
+  .md-min-height-4 { min-height: 48px; min-height:3rem; }
+  .md-min-height-5 { min-height: 64px; min-height:4rem; }
+  .md-min-height-6 { min-height: 80px; min-height:5rem; }
+  .md-min-height-7 { min-height: 96px; min-height:6rem; }
+  .md-min-height-8 { min-height: 112px; min-height:7rem; }
+  .md-min-height-9 { min-height: 128px; min-height:8rem; }
+  .md-min-height-10 { min-height: 144px; min-height:9rem; }
+  .md-min-height-11 { min-height: 160px; min-height:10rem; }
+  .md-min-height-12 { min-height: 176px; min-height:11rem; }
+  .md-min-height-13 { min-height: 192px; min-height:12rem; }
+  .md-min-height-14 { min-height: 208px; min-height:13rem; }
+  .md-min-height-15 { min-height: 224px; min-height:14rem; }
+  .md-min-height-16 { min-height: 240px; min-height:15rem; }
+  .md-min-height-17 { min-height: 256px; min-height:16rem; }
+  .md-min-height-18 { min-height: 272px; min-height:17rem; }
+  .md-min-height-19 { min-height: 288px; min-height:18rem; }
+  .md-min-height-20 { min-height: 304px; min-height:19rem; }
+  .md-min-height-21 { min-height: 320px; min-height:20rem; }
+  .md-min-height-22 { min-height: 336px; min-height:21rem; }
+  .md-min-height-23 { min-height: 352px; min-height:22rem; }
+  .md-min-height-24 { min-height: 368px; min-height:23rem; }
+  .md-min-height-25 { min-height: 384px; min-height:24rem; }
+  .md-min-height-26 { min-height: 400px; min-height:25rem; }
+  .md-min-height-27 { min-height: 416px; min-height:26rem; }
+  .md-min-height-28 { min-height: 432px; min-height:27rem; }
+  .md-min-height-29 { min-height: 448px; min-height:28rem; }
+  .md-min-height-30 { min-height: 464px; min-height:29rem; }
+  .md-min-height-31 { min-height: 480px; min-height:30rem; }
+  .md-min-height-32 { min-height: 496px; min-height:31rem; }
+  .md-min-height-33 { min-height: 512px; min-height:32rem; }
+  .md-min-height-34 { min-height: 528px; min-height:33rem; }
+  .md-min-height-35 { min-height: 544px; min-height:34rem; }
+  .md-min-height-36 { min-height: 560px; min-height:35rem; }
+  .md-min-height-37 { min-height: 576px; min-height:36rem; }
+  .md-min-height-38 { min-height: 592px; min-height:37rem; }
+  .md-min-height-39 { min-height: 608px; min-height:38rem; }
+  .md-min-height-40 { min-height: 624px; min-height:39rem; }
+  .md-min-height-41 { min-height: 640px; min-height:40rem; }
+  .md-min-height-42 { min-height: 656px; min-height:41rem; }
+  .md-min-height-43 { min-height: 672px; min-height:42rem; }
+  .md-min-height-44 { min-height: 688px; min-height:43rem; }
+  .md-min-height-45 { min-height: 704px; min-height:44rem; }
+  .md-min-height-46 { min-height: 720px; min-height:45rem; }
+  .md-min-height-47 { min-height: 736px; min-height:46rem; }
+  .md-min-height-48 { min-height: 752px; min-height:47rem; }
+  .md-min-height-49 { min-height: 768px; min-height:48rem; }
+  .md-min-height-50 { min-height: 784px; min-height:49rem; }
+
+}
+
+
+@media (--breakpoint-lg) {
+
+  .lg-min-height-1 { min-height: 8px; min-height:0.5rem; }
+  .lg-min-height-2 { min-height: 16px; min-height:1rem; }
+  .lg-min-height-3 { min-height: 32px; min-height:2rem; }
+  .lg-min-height-4 { min-height: 48px; min-height:3rem; }
+  .lg-min-height-5 { min-height: 64px; min-height:4rem; }
+  .lg-min-height-6 { min-height: 80px; min-height:5rem; }
+  .lg-min-height-7 { min-height: 96px; min-height:6rem; }
+  .lg-min-height-8 { min-height: 112px; min-height:7rem; }
+  .lg-min-height-9 { min-height: 128px; min-height:8rem; }
+  .lg-min-height-10 { min-height: 144px; min-height:9rem; }
+  .lg-min-height-11 { min-height: 160px; min-height:10rem; }
+  .lg-min-height-12 { min-height: 176px; min-height:11rem; }
+  .lg-min-height-13 { min-height: 192px; min-height:12rem; }
+  .lg-min-height-14 { min-height: 208px; min-height:13rem; }
+  .lg-min-height-15 { min-height: 224px; min-height:14rem; }
+  .lg-min-height-16 { min-height: 240px; min-height:15rem; }
+  .lg-min-height-17 { min-height: 256px; min-height:16rem; }
+  .lg-min-height-18 { min-height: 272px; min-height:17rem; }
+  .lg-min-height-19 { min-height: 288px; min-height:18rem; }
+  .lg-min-height-20 { min-height: 304px; min-height:19rem; }
+  .lg-min-height-21 { min-height: 320px; min-height:20rem; }
+  .lg-min-height-22 { min-height: 336px; min-height:21rem; }
+  .lg-min-height-23 { min-height: 352px; min-height:22rem; }
+  .lg-min-height-24 { min-height: 368px; min-height:23rem; }
+  .lg-min-height-25 { min-height: 384px; min-height:24rem; }
+  .lg-min-height-26 { min-height: 400px; min-height:25rem; }
+  .lg-min-height-27 { min-height: 416px; min-height:26rem; }
+  .lg-min-height-28 { min-height: 432px; min-height:27rem; }
+  .lg-min-height-29 { min-height: 448px; min-height:28rem; }
+  .lg-min-height-30 { min-height: 464px; min-height:29rem; }
+  .lg-min-height-31 { min-height: 480px; min-height:30rem; }
+  .lg-min-height-32 { min-height: 496px; min-height:31rem; }
+  .lg-min-height-33 { min-height: 512px; min-height:32rem; }
+  .lg-min-height-34 { min-height: 528px; min-height:33rem; }
+  .lg-min-height-35 { min-height: 544px; min-height:34rem; }
+  .lg-min-height-36 { min-height: 560px; min-height:35rem; }
+  .lg-min-height-37 { min-height: 576px; min-height:36rem; }
+  .lg-min-height-38 { min-height: 592px; min-height:37rem; }
+  .lg-min-height-39 { min-height: 608px; min-height:38rem; }
+  .lg-min-height-40 { min-height: 624px; min-height:39rem; }
+  .lg-min-height-41 { min-height: 640px; min-height:40rem; }
+  .lg-min-height-42 { min-height: 656px; min-height:41rem; }
+  .lg-min-height-43 { min-height: 672px; min-height:42rem; }
+  .lg-min-height-44 { min-height: 688px; min-height:43rem; }
+  .lg-min-height-45 { min-height: 704px; min-height:44rem; }
+  .lg-min-height-46 { min-height: 720px; min-height:45rem; }
+  .lg-min-height-47 { min-height: 736px; min-height:46rem; }
+  .lg-min-height-48 { min-height: 752px; min-height:47rem; }
+  .lg-min-height-49 { min-height: 768px; min-height:48rem; }
+  .lg-min-height-50 { min-height: 784px; min-height:49rem; }
+
+}
+
+
+@media (--breakpoint-xl) {
+
+  .xl-min-height-1 { min-height: 8px; min-height:0.5rem; }
+  .xl-min-height-2 { min-height: 16px; min-height:1rem; }
+  .xl-min-height-3 { min-height: 32px; min-height:2rem; }
+  .xl-min-height-4 { min-height: 48px; min-height:3rem; }
+  .xl-min-height-5 { min-height: 64px; min-height:4rem; }
+  .xl-min-height-6 { min-height: 80px; min-height:5rem; }
+  .xl-min-height-7 { min-height: 96px; min-height:6rem; }
+  .xl-min-height-8 { min-height: 112px; min-height:7rem; }
+  .xl-min-height-9 { min-height: 128px; min-height:8rem; }
+  .xl-min-height-10 { min-height: 144px; min-height:9rem; }
+  .xl-min-height-11 { min-height: 160px; min-height:10rem; }
+  .xl-min-height-12 { min-height: 176px; min-height:11rem; }
+  .xl-min-height-13 { min-height: 192px; min-height:12rem; }
+  .xl-min-height-14 { min-height: 208px; min-height:13rem; }
+  .xl-min-height-15 { min-height: 224px; min-height:14rem; }
+  .xl-min-height-16 { min-height: 240px; min-height:15rem; }
+  .xl-min-height-17 { min-height: 256px; min-height:16rem; }
+  .xl-min-height-18 { min-height: 272px; min-height:17rem; }
+  .xl-min-height-19 { min-height: 288px; min-height:18rem; }
+  .xl-min-height-20 { min-height: 304px; min-height:19rem; }
+  .xl-min-height-21 { min-height: 320px; min-height:20rem; }
+  .xl-min-height-22 { min-height: 336px; min-height:21rem; }
+  .xl-min-height-23 { min-height: 352px; min-height:22rem; }
+  .xl-min-height-24 { min-height: 368px; min-height:23rem; }
+  .xl-min-height-25 { min-height: 384px; min-height:24rem; }
+  .xl-min-height-26 { min-height: 400px; min-height:25rem; }
+  .xl-min-height-27 { min-height: 416px; min-height:26rem; }
+  .xl-min-height-28 { min-height: 432px; min-height:27rem; }
+  .xl-min-height-29 { min-height: 448px; min-height:28rem; }
+  .xl-min-height-30 { min-height: 464px; min-height:29rem; }
+  .xl-min-height-31 { min-height: 480px; min-height:30rem; }
+  .xl-min-height-32 { min-height: 496px; min-height:31rem; }
+  .xl-min-height-33 { min-height: 512px; min-height:32rem; }
+  .xl-min-height-34 { min-height: 528px; min-height:33rem; }
+  .xl-min-height-35 { min-height: 544px; min-height:34rem; }
+  .xl-min-height-36 { min-height: 560px; min-height:35rem; }
+  .xl-min-height-37 { min-height: 576px; min-height:36rem; }
+  .xl-min-height-38 { min-height: 592px; min-height:37rem; }
+  .xl-min-height-39 { min-height: 608px; min-height:38rem; }
+  .xl-min-height-40 { min-height: 624px; min-height:39rem; }
+  .xl-min-height-41 { min-height: 640px; min-height:40rem; }
+  .xl-min-height-42 { min-height: 656px; min-height:41rem; }
+  .xl-min-height-43 { min-height: 672px; min-height:42rem; }
+  .xl-min-height-44 { min-height: 688px; min-height:43rem; }
+  .xl-min-height-45 { min-height: 704px; min-height:44rem; }
+  .xl-min-height-46 { min-height: 720px; min-height:45rem; }
+  .xl-min-height-47 { min-height: 736px; min-height:46rem; }
+  .xl-min-height-48 { min-height: 752px; min-height:47rem; }
+  .xl-min-height-49 { min-height: 768px; min-height:48rem; }
+  .xl-min-height-50 { min-height: 784px; min-height:49rem; }
+
+}

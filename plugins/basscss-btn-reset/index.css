@@ -1,0 +1,7 @@
+/* Basscss Btn Reset */
+
+.btn:focus {
+  outline: none;
+  border-color: none;
+  box-shadow: none;
+}

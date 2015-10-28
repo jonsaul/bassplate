@@ -1,0 +1,225 @@
+/* Basscss Responsive Height Values */
+
+
+@media (--breakpoint-sm) {
+
+  .sm-height-1 { height: 8px; height:0.5rem; }
+  .sm-height-2 { height: 16px; height:1rem; }
+  .sm-height-3 { height: 32px; height:2rem; }
+  .sm-height-4 { height: 48px; height:3rem; }
+  .sm-height-5 { height: 64px; height:4rem; }
+  .sm-height-6 { height: 80px; height:5rem; }
+  .sm-height-7 { height: 96px; height:6rem; }
+  .sm-height-8 { height: 112px; height:7rem; }
+  .sm-height-9 { height: 128px; height:8rem; }
+  .sm-height-10 { height: 144px; height:9rem; }
+  .sm-height-11 { height: 160px; height:10rem; }
+  .sm-height-12 { height: 176px; height:11rem; }
+  .sm-height-13 { height: 192px; height:12rem; }
+  .sm-height-14 { height: 208px; height:13rem; }
+  .sm-height-15 { height: 224px; height:14rem; }
+  .sm-height-16 { height: 240px; height:15rem; }
+  .sm-height-17 { height: 256px; height:16rem; }
+  .sm-height-18 { height: 272px; height:17rem; }
+  .sm-height-19 { height: 288px; height:18rem; }
+  .sm-height-20 { height: 304px; height:19rem; }
+  .sm-height-21 { height: 320px; height:20rem; }
+  .sm-height-22 { height: 336px; height:21rem; }
+  .sm-height-23 { height: 352px; height:22rem; }
+  .sm-height-24 { height: 368px; height:23rem; }
+  .sm-height-25 { height: 384px; height:24rem; }
+  .sm-height-26 { height: 400px; height:25rem; }
+  .sm-height-27 { height: 416px; height:26rem; }
+  .sm-height-28 { height: 432px; height:27rem; }
+  .sm-height-29 { height: 448px; height:28rem; }
+  .sm-height-30 { height: 464px; height:29rem; }
+  .sm-height-31 { height: 480px; height:30rem; }
+  .sm-height-32 { height: 496px; height:31rem; }
+  .sm-height-33 { height: 512px; height:32rem; }
+  .sm-height-34 { height: 528px; height:33rem; }
+  .sm-height-35 { height: 544px; height:34rem; }
+  .sm-height-36 { height: 560px; height:35rem; }
+  .sm-height-37 { height: 576px; height:36rem; }
+  .sm-height-38 { height: 592px; height:37rem; }
+  .sm-height-39 { height: 608px; height:38rem; }
+  .sm-height-40 { height: 624px; height:39rem; }
+  .sm-height-41 { height: 640px; height:40rem; }
+  .sm-height-42 { height: 656px; height:41rem; }
+  .sm-height-43 { height: 672px; height:42rem; }
+  .sm-height-44 { height: 688px; height:43rem; }
+  .sm-height-45 { height: 704px; height:44rem; }
+  .sm-height-46 { height: 720px; height:45rem; }
+  .sm-height-47 { height: 736px; height:46rem; }
+  .sm-height-48 { height: 752px; height:47rem; }
+  .sm-height-49 { height: 768px; height:48rem; }
+  .sm-height-50 { height: 784px; height:49rem; }
+
+}
+
+
+@media (--breakpoint-md) {
+
+  .md-height-1 { height: 8px; height:0.5rem; }
+  .md-height-2 { height: 16px; height:1rem; }
+  .md-height-3 { height: 32px; height:2rem; }
+  .md-height-4 { height: 48px; height:3rem; }
+  .md-height-5 { height: 64px; height:4rem; }
+  .md-height-6 { height: 80px; height:5rem; }
+  .md-height-7 { height: 96px; height:6rem; }
+  .md-height-8 { height: 112px; height:7rem; }
+  .md-height-9 { height: 128px; height:8rem; }
+  .md-height-10 { height: 144px; height:9rem; }
+  .md-height-11 { height: 160px; height:10rem; }
+  .md-height-12 { height: 176px; height:11rem; }
+  .md-height-13 { height: 192px; height:12rem; }
+  .md-height-14 { height: 208px; height:13rem; }
+  .md-height-15 { height: 224px; height:14rem; }
+  .md-height-16 { height: 240px; height:15rem; }
+  .md-height-17 { height: 256px; height:16rem; }
+  .md-height-18 { height: 272px; height:17rem; }
+  .md-height-19 { height: 288px; height:18rem; }
+  .md-height-20 { height: 304px; height:19rem; }
+  .md-height-21 { height: 320px; height:20rem; }
+  .md-height-22 { height: 336px; height:21rem; }
+  .md-height-23 { height: 352px; height:22rem; }
+  .md-height-24 { height: 368px; height:23rem; }
+  .md-height-25 { height: 384px; height:24rem; }
+  .md-height-26 { height: 400px; height:25rem; }
+  .md-height-27 { height: 416px; height:26rem; }
+  .md-height-28 { height: 432px; height:27rem; }
+  .md-height-29 { height: 448px; height:28rem; }
+  .md-height-30 { height: 464px; height:29rem; }
+  .md-height-31 { height: 480px; height:30rem; }
+  .md-height-32 { height: 496px; height:31rem; }
+  .md-height-33 { height: 512px; height:32rem; }
+  .md-height-34 { height: 528px; height:33rem; }
+  .md-height-35 { height: 544px; height:34rem; }
+  .md-height-36 { height: 560px; height:35rem; }
+  .md-height-37 { height: 576px; height:36rem; }
+  .md-height-38 { height: 592px; height:37rem; }
+  .md-height-39 { height: 608px; height:38rem; }
+  .md-height-40 { height: 624px; height:39rem; }
+  .md-height-41 { height: 640px; height:40rem; }
+  .md-height-42 { height: 656px; height:41rem; }
+  .md-height-43 { height: 672px; height:42rem; }
+  .md-height-44 { height: 688px; height:43rem; }
+  .md-height-45 { height: 704px; height:44rem; }
+  .md-height-46 { height: 720px; height:45rem; }
+  .md-height-47 { height: 736px; height:46rem; }
+  .md-height-48 { height: 752px; height:47rem; }
+  .md-height-49 { height: 768px; height:48rem; }
+  .md-height-50 { height: 784px; height:49rem; }
+
+}
+
+
+@media (--breakpoint-lg) {
+
+  .lg-height-1 { height: 8px; height:0.5rem; }
+  .lg-height-2 { height: 16px; height:1rem; }
+  .lg-height-3 { height: 32px; height:2rem; }
+  .lg-height-4 { height: 48px; height:3rem; }
+  .lg-height-5 { height: 64px; height:4rem; }
+  .lg-height-6 { height: 80px; height:5rem; }
+  .lg-height-7 { height: 96px; height:6rem; }
+  .lg-height-8 { height: 112px; height:7rem; }
+  .lg-height-9 { height: 128px; height:8rem; }
+  .lg-height-10 { height: 144px; height:9rem; }
+  .lg-height-11 { height: 160px; height:10rem; }
+  .lg-height-12 { height: 176px; height:11rem; }
+  .lg-height-13 { height: 192px; height:12rem; }
+  .lg-height-14 { height: 208px; height:13rem; }
+  .lg-height-15 { height: 224px; height:14rem; }
+  .lg-height-16 { height: 240px; height:15rem; }
+  .lg-height-17 { height: 256px; height:16rem; }
+  .lg-height-18 { height: 272px; height:17rem; }
+  .lg-height-19 { height: 288px; height:18rem; }
+  .lg-height-20 { height: 304px; height:19rem; }
+  .lg-height-21 { height: 320px; height:20rem; }
+  .lg-height-22 { height: 336px; height:21rem; }
+  .lg-height-23 { height: 352px; height:22rem; }
+  .lg-height-24 { height: 368px; height:23rem; }
+  .lg-height-25 { height: 384px; height:24rem; }
+  .lg-height-26 { height: 400px; height:25rem; }
+  .lg-height-27 { height: 416px; height:26rem; }
+  .lg-height-28 { height: 432px; height:27rem; }
+  .lg-height-29 { height: 448px; height:28rem; }
+  .lg-height-30 { height: 464px; height:29rem; }
+  .lg-height-31 { height: 480px; height:30rem; }
+  .lg-height-32 { height: 496px; height:31rem; }
+  .lg-height-33 { height: 512px; height:32rem; }
+  .lg-height-34 { height: 528px; height:33rem; }
+  .lg-height-35 { height: 544px; height:34rem; }
+  .lg-height-36 { height: 560px; height:35rem; }
+  .lg-height-37 { height: 576px; height:36rem; }
+  .lg-height-38 { height: 592px; height:37rem; }
+  .lg-height-39 { height: 608px; height:38rem; }
+  .lg-height-40 { height: 624px; height:39rem; }
+  .lg-height-41 { height: 640px; height:40rem; }
+  .lg-height-42 { height: 656px; height:41rem; }
+  .lg-height-43 { height: 672px; height:42rem; }
+  .lg-height-44 { height: 688px; height:43rem; }
+  .lg-height-45 { height: 704px; height:44rem; }
+  .lg-height-46 { height: 720px; height:45rem; }
+  .lg-height-47 { height: 736px; height:46rem; }
+  .lg-height-48 { height: 752px; height:47rem; }
+  .lg-height-49 { height: 768px; height:48rem; }
+  .lg-height-50 { height: 784px; height:49rem; }
+
+}
+
+
+@media (--breakpoint-xl) {
+
+  .xl-height-1 { height: 8px; height:0.5rem; }
+  .xl-height-2 { height: 16px; height:1rem; }
+  .xl-height-3 { height: 32px; height:2rem; }
+  .xl-height-4 { height: 48px; height:3rem; }
+  .xl-height-5 { height: 64px; height:4rem; }
+  .xl-height-6 { height: 80px; height:5rem; }
+  .xl-height-7 { height: 96px; height:6rem; }
+  .xl-height-8 { height: 112px; height:7rem; }
+  .xl-height-9 { height: 128px; height:8rem; }
+  .xl-height-10 { height: 144px; height:9rem; }
+  .xl-height-11 { height: 160px; height:10rem; }
+  .xl-height-12 { height: 176px; height:11rem; }
+  .xl-height-13 { height: 192px; height:12rem; }
+  .xl-height-14 { height: 208px; height:13rem; }
+  .xl-height-15 { height: 224px; height:14rem; }
+  .xl-height-16 { height: 240px; height:15rem; }
+  .xl-height-17 { height: 256px; height:16rem; }
+  .xl-height-18 { height: 272px; height:17rem; }
+  .xl-height-19 { height: 288px; height:18rem; }
+  .xl-height-20 { height: 304px; height:19rem; }
+  .xl-height-21 { height: 320px; height:20rem; }
+  .xl-height-22 { height: 336px; height:21rem; }
+  .xl-height-23 { height: 352px; height:22rem; }
+  .xl-height-24 { height: 368px; height:23rem; }
+  .xl-height-25 { height: 384px; height:24rem; }
+  .xl-height-26 { height: 400px; height:25rem; }
+  .xl-height-27 { height: 416px; height:26rem; }
+  .xl-height-28 { height: 432px; height:27rem; }
+  .xl-height-29 { height: 448px; height:28rem; }
+  .xl-height-30 { height: 464px; height:29rem; }
+  .xl-height-31 { height: 480px; height:30rem; }
+  .xl-height-32 { height: 496px; height:31rem; }
+  .xl-height-33 { height: 512px; height:32rem; }
+  .xl-height-34 { height: 528px; height:33rem; }
+  .xl-height-35 { height: 544px; height:34rem; }
+  .xl-height-36 { height: 560px; height:35rem; }
+  .xl-height-37 { height: 576px; height:36rem; }
+  .xl-height-38 { height: 592px; height:37rem; }
+  .xl-height-39 { height: 608px; height:38rem; }
+  .xl-height-40 { height: 624px; height:39rem; }
+  .xl-height-41 { height: 640px; height:40rem; }
+  .xl-height-42 { height: 656px; height:41rem; }
+  .xl-height-43 { height: 672px; height:42rem; }
+  .xl-height-44 { height: 688px; height:43rem; }
+  .xl-height-45 { height: 704px; height:44rem; }
+  .xl-height-46 { height: 720px; height:45rem; }
+  .xl-height-47 { height: 736px; height:46rem; }
+  .xl-height-48 { height: 752px; height:47rem; }
+  .xl-height-49 { height: 768px; height:48rem; }
+  .xl-height-50 { height: 784px; height:49rem; }
+
+}
