@@ -52,10 +52,10 @@
 :root {
 
   --font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  --line-height: 1.5;
-  --heading-font-family: 'Lora', Helvetica, sans-serif;
+  --line-height: 1.7;
+  --heading-font-family: 'Martel', Helvetica, sans-serif;
   --heading-font-weight: bold;
-  --heading-line-height: 1.25;
+  --heading-line-height: 1.5;
   --monospace-font-family: 'Source Code Pro', Consolas, monospace;
 
   --h1: 2rem;
@@ -82,7 +82,7 @@
   --button-font-weight: bold;
   --button-line-height: 1.125rem;
   --button-padding-y: .5rem;
-  --button-padding-x: 1rem;
+  --button-padding-x: 2rem;
 
   --container-width: 64em;
 
