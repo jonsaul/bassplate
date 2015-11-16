@@ -84,14 +84,14 @@ td { vertical-align: top }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  line-height: 1.5;
+  line-height: 1.7;
   font-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Lora', Helvetica, sans-serif;
+  font-family: 'Martel', Helvetica, sans-serif;
   font-weight: bold;
-  line-height: 1.25;
+  line-height: 1.5;
   margin-top: 1em;
   margin-bottom: .5em;
 }
@@ -167,7 +167,7 @@ hr {
 .field.is-focused {
   outline: none;
   border-color: #00abeb;
-  box-shadow: 0 0 0 2px rgba(0, 171, 235, 0.5);
+  box-shadow: 0 0 0 1px rgba(0, 171, 235, 0.5);
 }
 
 .field:disabled,
@@ -190,7 +190,7 @@ hr {
 
 .field.is-success:focus,
 .field.is-success.is-focused {
-  box-shadow: 0 0 0 2px rgba(46, 204, 64, 0.5);
+  box-shadow: 0 0 0 1px rgba(46, 204, 64, 0.5);
 }
 
 .field.is-warning {
@@ -199,7 +199,7 @@ hr {
 
 .field.is-warning:focus,
 .field.is-warning.is-focused {
-  box-shadow: 0 0 0 2px rgba(255, 220, 0, 0.5);
+  box-shadow: 0 0 0 1px rgba(255, 220, 0, 0.5);
 }
 
 .field:invalid,
@@ -211,7 +211,7 @@ hr {
 .field:invalid.is-focused,
 .field.is-error:focus,
 .field.is-error.is-focused {
-  box-shadow: 0 0 0 2px rgba(255, 65, 54, 0.5);
+  box-shadow: 0 0 0 1px rgba(255, 65, 54, 0.5);
 }
 /* Basscss Color Tables */
 
@@ -236,8 +236,8 @@ hr {
   display: inline-block;
   line-height: 18px;
   line-height: 1.125rem;
-  padding: 8px 16px;
-  padding: .5rem 1rem;
+  padding: 8px 32px;
+  padding: .5rem 2rem;
   margin: 0;
   height: auto;
   border: 1px solid transparent;
@@ -360,6 +360,7 @@ hr {
 .list-reset {
   list-style: none;
   padding-left: 0;
+  /*list-style-position:inside;*/
 }
 /* Basscss Utility Layout */
 
