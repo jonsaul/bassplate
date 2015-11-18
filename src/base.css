@@ -87,8 +87,8 @@
   --container-width: 64em;
 
   --black:  #414042;
-  --gray:   #aaa;
-  --silver: #ddd;
+  --gray:   #555f6e;
+  --silver: #eff0f3;
   --white:  #fff;
 
   --aqua:   #7fdbff;
@@ -100,7 +100,7 @@
   --lime:   #01ff70;
 
   --yellow: #ffdc00;
-  --orange: #ff851b;
+  --orange: #e84e0b;
   --red:    #ff4136;
   --fuchsia:#f012be;
   --purple: #b10dc9;
