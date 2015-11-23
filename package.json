@@ -45,6 +45,7 @@
   },
   "devDependencies": {
     "cssnext": "^1.1.0",
+    "gradients": "^1.0.0",
     "http-server": "^0.8.0",
     "watch": "^0.14.0"
   },

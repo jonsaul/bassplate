@@ -28,7 +28,7 @@
 @import 'basscss-utility-headings';
 @import 'basscss-ui-utility-groups';
 @import 'basscss-table-object';
-
+@import 'gradients';
 
 @import '../plugins/basscss-btn-reset';
 @import '../plugins/basscss-force-scroll';
