@@ -42,12 +42,10 @@
 @import '../plugins/basscss-responsive-utility-typography';
 @import '../plugins/basscss-turbo';
 
-
 @custom-media --breakpoint-sm (min-width: 40em);
 @custom-media --breakpoint-md (min-width: 52em);
 @custom-media --breakpoint-lg (min-width: 76em);
 @custom-media --breakpoint-xl (min-width: 96em);
-
 
 :root {
 
