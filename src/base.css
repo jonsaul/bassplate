@@ -51,11 +51,11 @@
 
 :root {
 
-  --font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  --line-height: 1.7;
-  --heading-font-family: 'Martel', Helvetica, sans-serif;
+  --font-family: 'Lato', Helvetica, sans-serif;
+  --line-height: 1.5;
+  --heading-font-family: 'Lato', Helvetica, sans-serif;
   --heading-font-weight: bold;
-  --heading-line-height: 1.5;
+  --heading-line-height: 1.25;
   --monospace-font-family: 'Source Code Pro', Consolas, monospace;
 
   --h1: 2rem;
@@ -82,7 +82,7 @@
   --button-font-weight: bold;
   --button-line-height: 1.125rem;
   --button-padding-y: .5rem;
-  --button-padding-x: 2rem;
+  --button-padding-x: 1rem;
 
   --container-width: 64em;
 
@@ -121,8 +121,8 @@
   --border-color: var(--darken-2);
   --hover-background-color: var(--darken-1);
 
-  --link-color: var(--blue);
-  --button-background-color: var(--blue);
+  --link-color: var(--gray);
+  --button-background-color: var(--gray);
   --pre-background-color: var(--silver);
 
 

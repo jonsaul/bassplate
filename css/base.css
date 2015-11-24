@@ -83,15 +83,15 @@ td { vertical-align: top }
 /* Basscss Base Typography */
 
 body {
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  line-height: 1.7;
+  font-family: 'Lato', Helvetica, sans-serif;
+  line-height: 1.5;
   font-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Martel', Helvetica, sans-serif;
+  font-family: 'Lato', Helvetica, sans-serif;
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 1.25;
   margin-top: 1em;
   margin-bottom: .5em;
 }
@@ -134,7 +134,7 @@ body {
 }
 
 a {
-  color: #00abeb;
+  color: #555f6e;
   text-decoration: none;
 }
 
@@ -236,8 +236,8 @@ hr {
   display: inline-block;
   line-height: 18px;
   line-height: 1.125rem;
-  padding: 8px 32px;
-  padding: .5rem 2rem;
+  padding: 8px 16px;
+  padding: .5rem 1rem;
   margin: 0;
   height: auto;
   border: 1px solid transparent;
@@ -284,7 +284,7 @@ hr {
 
 .btn-primary {
   color: #fff;
-  background-color: #00abeb;
+  background-color: #555f6e;
   border-radius: 5px;
 }
 
