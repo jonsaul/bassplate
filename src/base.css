@@ -47,7 +47,6 @@
 @custom-media --breakpoint-lg (min-width: 76em);
 @custom-media --breakpoint-xl (min-width: 96em);
 
-
 :root {
 
   --font-family: 'Lato', Helvetica, sans-serif;
