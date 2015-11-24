@@ -245,8 +245,6 @@ hr {
   -webkit-appearance: none;
   color: inherit;
   background-color: transparent;
-  -webkit-transition: all 1s;
-  transition: all 1s;
 }
 
 .btn:hover {
