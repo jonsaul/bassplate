@@ -1,3 +1,5 @@
+/* master */
+
 body { margin: 0 }
 img { max-width: 100% }
 svg { max-height: 100% }
@@ -477,45 +479,45 @@ hr {
 /* Basscss Utility Responsive States */
 
 .sm-show, .md-show, .lg-show, .xl-show {
-  display: none !important
+  display: none !important;
 }
 
 @media (min-width: 40em) {
-  .sm-show { display: block !important }
+  .sm-show { display: block !important; }
 }
 
 @media (min-width: 52em) {
-  .md-show { display: block !important }
+  .md-show { display: block !important; }
 }
 
 @media (min-width: 76em) {
-  .lg-show { display: block !important }
+  .lg-show { display: block !important; }
 }
 
 @media (min-width: 96em) {
-  .xl-show { display: block !important }
+  .xl-show { display: block !important; }
 }
 
 
 @media (min-width: 40em) {
-  .sm-hide { display: none !important }
+  .sm-hide { display: none !important; }
 }
 
 @media (min-width: 52em) {
-  .md-hide { display: none !important }
+  .md-hide { display: none !important; }
 }
 
 @media (min-width: 76em) {
-  .lg-hide { display: none !important }
+  .lg-hide { display: none !important; }
 }
 
 
 @media (min-width: 96em) {
-  .xl-show { display: block !important }
+  .xl-hide { display: none !important; }
 }
 
 
-.display-none { display: none !important }
+.display-none { display: none !important; }
 
 .hide {
   position: absolute !important;
