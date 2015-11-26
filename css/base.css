@@ -1,4 +1,4 @@
-/* master */
+/* docs master */
 
 body { margin: 0 }
 img { max-width: 100% }
@@ -86,14 +86,14 @@ td { vertical-align: top }
 
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  line-height: 1.7;
+  line-height: 1.5;
   font-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: 'Martel', Helvetica, sans-serif;
+  font-family: 'Lora', 'Helvetica Neue' , Helvetica, sans-serif;
   font-weight: bold;
-  line-height: 1.5;
+  line-height: 1.2;
   margin-top: 1em;
   margin-bottom: .5em;
 }
