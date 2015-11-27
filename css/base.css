@@ -1,4 +1,4 @@
-/* docs master */
+/* docs */
 
 body { margin: 0 }
 img { max-width: 100% }
@@ -131,7 +131,7 @@ h6 { font-size: 12px; font-size: .75rem }
 /* Basscss Color Base */
 
 body {
-  color: #414042;
+  color: #0D0D0D;
   background-color: #fff;
 }
 
@@ -924,7 +924,7 @@ hr {
 .not-rounded { border-radius: 0 }
 /* Basscss Border Colors */
 
-.border-black  { border-color: #414042 }
+.border-black  { border-color: #0D0D0D }
 .border-gray   { border-color: #aaa }
 .border-silver { border-color: #ddd }
 .border-white  { border-color: #fff }
@@ -955,7 +955,7 @@ hr {
 .border-lighten-4 { border-color: #FFFFFF; border-color: rgba(255,255,255,.5) }
 /* Basscss Colors */
 
-.black  { color: #414042 }
+.black  { color: #0D0D0D }
 .gray   { color: #aaa }
 .silver { color: #ddd }
 .white  { color: #fff }
@@ -979,7 +979,7 @@ hr {
 .muted { opacity: .5 }
 /* Basscss Background Colors */
 
-.bg-black  { background-color: #414042 }
+.bg-black  { background-color: #0D0D0D }
 .bg-gray   { background-color: #aaa }
 .bg-silver { background-color: #ddd }
 .bg-white  { background-color: #fff }

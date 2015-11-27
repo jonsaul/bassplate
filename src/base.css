@@ -1,4 +1,4 @@
-/* docs master */
+/* docs */
 
 @import 'basscss-base-reset';
 @import 'basscss-base-forms';
@@ -86,7 +86,7 @@
 
   --container-width: 64em;
 
-  --black:  #414042;
+  --black:  #0D0D0D;
   --gray:   #aaa;
   --silver: #ddd;
   --white:  #fff;
