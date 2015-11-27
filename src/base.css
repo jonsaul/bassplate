@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* docs */
-=======
-/* basscss master */
->>>>>>> master
 
 @import 'basscss-base-reset';
 @import 'basscss-base-forms';
@@ -56,17 +52,10 @@
 :root {
 
   --font-family: 'Helvetica Neue', Helvetica, sans-serif;
-<<<<<<< HEAD
   --line-height: 1.5;
   --heading-font-family: 'Lora', 'Helvetica Neue' , Helvetica, sans-serif;
   --heading-font-weight: bold;
   --heading-line-height: 1.2;
-=======
-  --line-height: 1.6;
-  --heading-font-family: 'Martel', Helvetica, sans-serif;
-  --heading-font-weight: bold;
-  --heading-line-height: 1.4;
->>>>>>> master
   --monospace-font-family: 'Source Code Pro', Consolas, monospace;
 
   --h1: 2rem;
