@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 /* Orvelo basscss */
-=======
-/* basscss master */
->>>>>>> master
 
 body { margin: 0 }
 img { max-width: 100% }
@@ -89,24 +85,15 @@ td { vertical-align: top }
 /* Basscss Base Typography */
 
 body {
-<<<<<<< HEAD
   font-family: 'Lato', Helvetica, sans-serif;
   line-height: 1.5;
-=======
-  font-family: 'Helvetica Neue', Helvetica, sans-serif;
-  line-height: 1.6;
->>>>>>> master
   font-size: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: 'Lato', Helvetica, sans-serif;
   font-weight: bold;
-<<<<<<< HEAD
   line-height: 1.25;
-=======
-  line-height: 1.4;
->>>>>>> master
   margin-top: 1em;
   margin-bottom: .5em;
 }
@@ -158,13 +145,8 @@ a:hover {
 }
 
 pre, code {
-<<<<<<< HEAD
   background-color: #eff0f3;
-  border-radius: 5px;
-=======
-  background-color: #ddd;
   border-radius: 6px;
->>>>>>> master
 }
 
 hr {
@@ -304,13 +286,8 @@ hr {
 
 .btn-primary {
   color: #fff;
-<<<<<<< HEAD
   background-color: #555f6e;
-  border-radius: 5px;
-=======
-  background-color: #00abeb;
   border-radius: 6px;
->>>>>>> master
 }
 
 .btn-primary:hover {
