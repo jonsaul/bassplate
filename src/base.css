@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* docs */
+=======
+/* basscss master */
+>>>>>>> master
 
 @import 'basscss-base-reset';
 @import 'basscss-base-forms';
@@ -52,10 +56,17 @@
 :root {
 
   --font-family: 'Helvetica Neue', Helvetica, sans-serif;
+<<<<<<< HEAD
   --line-height: 1.5;
   --heading-font-family: 'Lora', 'Helvetica Neue' , Helvetica, sans-serif;
   --heading-font-weight: bold;
   --heading-line-height: 1.2;
+=======
+  --line-height: 1.6;
+  --heading-font-family: 'Martel', Helvetica, sans-serif;
+  --heading-font-weight: bold;
+  --heading-line-height: 1.4;
+>>>>>>> master
   --monospace-font-family: 'Source Code Pro', Consolas, monospace;
 
   --h1: 2rem;
@@ -110,16 +121,24 @@
   --darken-2: rgba(0,0,0,.125);
   --darken-3: rgba(0,0,0,.25);
   --darken-4: rgba(0,0,0,.5);
+  --darken-5: rgba(0,0,0,.6);
+  --darken-6: rgba(0,0,0,.7);
+  --darken-7: rgba(0,0,0,.8);
+  --darken-8: rgba(0,0,0,.9);
 
   --lighten-1: rgba(255,255,255,.0625);
   --lighten-2: rgba(255,255,255,.125);
   --lighten-3: rgba(255,255,255,.25);
   --lighten-4: rgba(255,255,255,.5);
+  --lighten-5: rgba(255,255,255,.6);
+  --lighten-6: rgba(255,255,255,.7);
+  --lighten-7: rgba(255,255,255,.8);
+  --lighten-8: rgba(255,255,255,.9);
 
   --border-width: 1px;
-  --border-radius: 5px;
-  --border-color: var(--darken-2);
-  --hover-background-color: var(--darken-1);
+  --border-radius: 6px;
+  --border-color: var(--darken-3);
+  --hover-background-color: inherit;
 
   --link-color: var(--blue);
   --button-background-color: var(--blue);
